@@ -1,4 +1,3 @@
-```markdown
 # Data Royale DIKE 2023 – Music Genre Multiclass Prediction
 
 **Authors**  
